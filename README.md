@@ -31,8 +31,31 @@
 
 *Encapsulation:*
 - Encapsulation is a mechanism of binding code and data together in a single unit.
+- Also describe like 'process of wrapping of code and data together in a single unit.
 
 ![image](https://user-images.githubusercontent.com/33669698/210366223-ffc33e39-c8c0-4aec-977d-f4f4bdeac18f.png)
+
+
+*Polymorphism:*
+- This allows us to perform a single action in different ways.
+- Types of Polymorphism - 1.Method Overloading, 2.Method Overriding.
+1. Method Overloading (Static Polymorphism/Compile time polymorphism)
+- A class having multiple methods with same name but different parameters/arguments is called Method Overloading.
+- Parameters with different data types
+
+![image](https://user-images.githubusercontent.com/33669698/210368053-c1cef82c-5e74-4a97-a2a0-2760ae6972d1.png)
+
+- Parameters with different sequence of a data types
+
+![image](https://user-images.githubusercontent.com/33669698/210368212-fee32f96-62e0-4513-8d98-e34b7f9e8c2d.png)
+
+
+
+
+
+3. Method Overriding (Dynamic Polymorphism/Run time polymorphism)
+
+
 
 
 
