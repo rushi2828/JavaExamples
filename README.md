@@ -71,6 +71,22 @@
 - It is because during method call which method (parent class or child class) is to be executed is determined by the type of an object.
 ![image](https://user-images.githubusercontent.com/33669698/210370161-b764b754-348d-408c-bd2c-5af7c46348f9.png)
 
+*Abstraction:*
+- Methodology of hiding the implementation of internal details and showing the functionality to the users.
+- It is achieved using abstract classes and interfaces.
+
+1. Abstract Class:
+- Abstract classes may or may not include abstract methods
+- A class which contains abstract keyword in its declaration then it is an Abstract Class.
+- If a class is declared abstract then it cannot be instantiated.
+- To access the abstract class, it must be inherited from another class.
+- If a class has abstract method then we have to declare the class as abstract class.
+
+![image](https://user-images.githubusercontent.com/33669698/210372853-c1f89711-479f-4e86-80a1-d90987cbdeac.png)
+
+
+
+
 
 
 
