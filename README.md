@@ -59,14 +59,17 @@
 
 ![image](https://user-images.githubusercontent.com/33669698/210368588-ec77b9d5-e436-4537-9b10-c13f4e24e358.png)
 
-
-
-
-
-
 2. Method Overriding (Dynamic Polymorphism/Run time polymorphism)
+- Declaring a method in child class which is already present in the parent class is called Method Overriding.
+- Overriding means to override the functionality of an existing method.
 
+![image](https://user-images.githubusercontent.com/33669698/210369405-8ac4ba81-af0f-4ab9-827f-14136d9619d0.png)
+![image](https://user-images.githubusercontent.com/33669698/210369459-c5951428-5f46-4b1e-a2f9-ca85884fe6f5.png)
+![image](https://user-images.githubusercontent.com/33669698/210369718-2322c898-33f8-483d-b97f-144758ae279b.png)
 
+- When a parent class reference refers to the child class object then the call to the overridden method is determined at the runtime. So it is called runtime polymorphism. 
+- It is because during method call which method (parent class or child class) is to be executed is determined by the type of an object.
+![image](https://user-images.githubusercontent.com/33669698/210370161-b764b754-348d-408c-bd2c-5af7c46348f9.png)
 
 
 
