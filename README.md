@@ -24,5 +24,17 @@
 ![image](https://user-images.githubusercontent.com/33669698/210364843-ca6d2b3b-54ac-440f-84bc-7036a7082cef.png)
 
 - We use implements keyword in Java to inherit the properties from an interface
+- Types of Inheritance:
+1. Single Inheritance
+2. Multilevel Inheritance
+3. Hierarchical Inheritance
+
+*Encapsulation:*
+- Encapsulation is a mechanism of binding code and data together in a single unit.
+
+![image](https://user-images.githubusercontent.com/33669698/210365775-c7af4072-1b0c-4498-b3ce-2dc3ea05c63f.png)
+
+
+
 
 
