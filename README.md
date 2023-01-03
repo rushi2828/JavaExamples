@@ -39,6 +39,7 @@
 *Polymorphism:*
 - This allows us to perform a single action in different ways.
 - Types of Polymorphism - 1.Method Overloading, 2.Method Overriding.
+
 1. Method Overloading (Static Polymorphism/Compile time polymorphism)
 - A class having multiple methods with same name but different parameters/arguments is called Method Overloading.
 - Parameters with different data types
@@ -49,11 +50,16 @@
 
 ![image](https://user-images.githubusercontent.com/33669698/210368212-fee32f96-62e0-4513-8d98-e34b7f9e8c2d.png)
 
+- Different number of parameters
+
+![image](https://user-images.githubusercontent.com/33669698/210368588-ec77b9d5-e436-4537-9b10-c13f4e24e358.png)
 
 
 
 
-3. Method Overriding (Dynamic Polymorphism/Run time polymorphism)
+
+
+2. Method Overriding (Dynamic Polymorphism/Run time polymorphism)
 
 
 
