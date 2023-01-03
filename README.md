@@ -21,6 +21,10 @@
 
 ![image](https://user-images.githubusercontent.com/33669698/210375827-421fc806-dc8a-4b2c-83a7-987d3b8e2be8.png)
 
+- Constructors can also take parameters, which is used to initialize attributes.
+
+![image](https://user-images.githubusercontent.com/33669698/210376286-09d33347-bf63-40ba-8d83-77f02aff02f7.png)
+
 
 **OOPS Concepts:**
 
