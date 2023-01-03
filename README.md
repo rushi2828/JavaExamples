@@ -4,9 +4,11 @@
 - A class is a blueprint or prototype from which objects are created.
 - A class contains variables (data types) and methods (functions) to describe the behavior of an object.
 
+
 *Object:*
 - Object is a software bundle of related state and behavior.
 - Objects have two characteristics namely state and behavior.
+
 
 *Constructor:*
 - Constructor in Java is used in the creation of an Object that is an instance of a Class.
@@ -14,6 +16,7 @@
 - It looks like a method but its not a method. 
 - It wont return any value.
 - If there is no constructor in a class, then compiler automatically creates a default constructor.
+
 
 **OOPS Concepts:**
 
@@ -23,15 +26,17 @@
 
 ![image](https://user-images.githubusercontent.com/33669698/210364843-ca6d2b3b-54ac-440f-84bc-7036a7082cef.png)
 
-- We use implements keyword in Java to inherit the properties from an interface
+- We use "implements" keyword in Java to inherit the properties from an "interface".
+
 - Types of Inheritance:
 1. Single Inheritance
 2. Multilevel Inheritance
 3. Hierarchical Inheritance
 
+
 *Encapsulation:*
 - Encapsulation is a mechanism of binding code and data together in a single unit.
-- Also describe like 'process of wrapping of code and data together in a single unit.
+- Also describe like 'Process of wrapping of code and data together in a single unit.
 
 ![image](https://user-images.githubusercontent.com/33669698/210366223-ffc33e39-c8c0-4aec-977d-f4f4bdeac18f.png)
 
