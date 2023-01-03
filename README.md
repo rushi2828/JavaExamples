@@ -19,6 +19,8 @@
 - It wont return any value.
 - If there is no constructor in a class, then compiler automatically creates a default constructor.
 
+![image](https://user-images.githubusercontent.com/33669698/210375827-421fc806-dc8a-4b2c-83a7-987d3b8e2be8.png)
+
 
 **OOPS Concepts:**
 
