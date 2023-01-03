@@ -1,4 +1,4 @@
-# JavaExamples-Notes
+# Java Notes:
 
 *Class:*
 - A class is a blueprint or prototype from which objects are created.
@@ -8,6 +8,8 @@
 *Object:*
 - Object is a software bundle of related state and behavior.
 - Objects have two characteristics namely state and behavior.
+
+![image](https://user-images.githubusercontent.com/33669698/210375397-3bda288a-4683-44bf-adeb-fd2f127375a9.png)
 
 
 *Constructor:*
@@ -76,13 +78,27 @@
 - It is achieved using abstract classes and interfaces.
 
 1. Abstract Class:
+
 - Abstract classes may or may not include abstract methods
 - A class which contains abstract keyword in its declaration then it is an Abstract Class.
 - If a class is declared abstract then it cannot be instantiated.
 - To access the abstract class, it must be inherited from another class.
 - If a class has abstract method then we have to declare the class as abstract class.
 
-![image](https://user-images.githubusercontent.com/33669698/210372853-c1f89711-479f-4e86-80a1-d90987cbdeac.png)
+![image](https://user-images.githubusercontent.com/33669698/210373841-1f9cd727-68d0-4246-aaa8-ef40a86b0629.png)
+
+2. Interface:
+
+- We can achieve 100% abstraction and multiple inheritance in Java with Interface.
+- An interface can have methods and variables just like the class but the methods declared in interface are by default abstract.
+- Interface methods do not have a body - the body is provided by the "implement" class
+- On implementation of an interface, you must override all of its methods.
+- Interface methods are by default 'abstract' and 'public'.
+- Interface attributes are by default 'public', 'static' and 'final'.
+- An interface cannot contain a constructor.
+
+![image](https://user-images.githubusercontent.com/33669698/210374663-cab2e139-25e1-4bdf-b806-8e64128feb94.png)
+
 
 
 
