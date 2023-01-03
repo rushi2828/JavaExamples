@@ -32,7 +32,7 @@
 *Encapsulation:*
 - Encapsulation is a mechanism of binding code and data together in a single unit.
 
-![image](https://user-images.githubusercontent.com/33669698/210365775-c7af4072-1b0c-4498-b3ce-2dc3ea05c63f.png)
+![image](https://user-images.githubusercontent.com/33669698/210366223-ffc33e39-c8c0-4aec-977d-f4f4bdeac18f.png)
 
 
 
