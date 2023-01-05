@@ -2,9 +2,9 @@ package FromVSCodeJava;
 
 import java.util.*;
 
-public class collectionProblem {
+public class CollectionProblem {
     public static void main(String[] args) {
-//        m1();
+        m1();
         m2();
         m3();
     }

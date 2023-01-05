@@ -2,7 +2,7 @@ package FromVSCodeJava;
 
 import java.util.Arrays;
 
-public class arrayProblems {
+public class ArrayProblems {
     /*
      * Q1. min and max element from an array
      * Q2. Sorting array

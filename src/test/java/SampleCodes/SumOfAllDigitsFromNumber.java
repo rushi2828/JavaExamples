@@ -14,13 +14,13 @@ public class SumOfAllDigitsFromNumber {
 		while(digit!=0) {
 			int lastDigit = digit%10;
 			
-			sum = sum + lastDigit;
+			sum += lastDigit;
 			
 			digit = digit/10;
 			
 		}
 		
-		System.out.println(sum);
+		System.out.println("Sum of all the int value is ----> "+sum);
 		
 		
 	}

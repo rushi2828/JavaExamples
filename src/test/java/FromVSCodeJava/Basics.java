@@ -1,8 +1,8 @@
 package FromVSCodeJava;
 
-public class basics {
+public class Basics {
     public static void main(String[] args) {
-        basics m = new basics();
+        Basics m = new Basics();
         m.m1();
         m2();
     }

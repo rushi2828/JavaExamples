@@ -1,11 +1,28 @@
 package FromVSCodeJava;
 
-public class demo {
+public class TrialGround {
     public static void main(String[] args) {
-        d1();
+//        d1();
+        d2();
     }
 
-    public static void d1(){
+    private static void d2() {
+		// TODO Auto-generated method stub
+    	try {
+    		  // Code that may throw an exception goes here
+    		  int result = 1 / 0;
+    		} catch (ArithmeticException e) {
+    		  // Exception handling code goes here
+    		  System.out.println("An arithmetic exception occurred: " + e.getMessage());
+    		} finally {
+    		  // Finally block is optional and is executed whether an exception was thrown or not
+    		  System.out.println("This code is always executed.");
+    		}
+
+		
+	}
+
+	public static void d1(){
         String str = "I Am Not String";
         System.out.println("Input String->"+str);
         char[] ch = str.toCharArray();
